@@ -1,12 +1,11 @@
 
 #include <iostream>
+#define PI 3.14
 
 using namespace std;
 
 int main() {
-    int number = 0;
-    cout<<sizeof(int)<<endl;
+    cout<<PI<<endl;
 
     return 0;
 }
-

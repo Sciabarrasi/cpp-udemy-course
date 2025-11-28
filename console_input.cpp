@@ -1,4 +1,4 @@
-/*
+
 #include <iostream>
 
 using namespace std;
@@ -12,4 +12,4 @@ int main() {
     cout<<"Value: "<<number<<endl;
     return 0;
 }
-*/
+
