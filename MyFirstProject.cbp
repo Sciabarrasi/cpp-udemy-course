@@ -32,7 +32,16 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="arithmetic_operators.cpp" />
+		<Unit filename="asign_variables.cpp" />
+		<Unit filename="char_type.cpp" />
+		<Unit filename="console_input.cpp" />
+		<Unit filename="int_type.cpp" />
+		<Unit filename="logic_operators.cpp" />
 		<Unit filename="main.cpp" />
+		<Unit filename="variables_and_types.cpp">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>

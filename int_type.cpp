@@ -3,9 +3,10 @@
 
 using namespace std;
 
-int main()
-{
-    cout << "Hello world!" << endl;
+int main() {
+    int number = 0;
+    cout<<sizeof(int)<<endl;
+
     return 0;
 }
 */

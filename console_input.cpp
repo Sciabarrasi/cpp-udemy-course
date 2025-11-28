@@ -1,0 +1,15 @@
+/*
+#include <iostream>
+
+using namespace std;
+
+int main() {
+
+    int number;
+    cout<<"Please enter a number: "<<endl;
+    cin>>number;
+
+    cout<<"Value: "<<number<<endl;
+    return 0;
+}
+*/

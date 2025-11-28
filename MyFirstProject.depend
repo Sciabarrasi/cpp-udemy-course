@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1764166599 source:c:\users\gianlucasciabarrasi\desktop\udemy\cpp_code_blocks\myfirstproject\main.cpp
+	<iostream>
+
+1764166617 source:c:\users\gianlucasciabarrasi\desktop\udemy\cpp_code_blocks\myfirstproject\asign_variables.cpp
+	<iostream>
+
+1764166607 source:c:\users\gianlucasciabarrasi\desktop\udemy\cpp_code_blocks\myfirstproject\variables_and_types.cpp
+	<iostream>
+
+1764166654 source:c:\users\gianlucasciabarrasi\desktop\udemy\cpp_code_blocks\myfirstproject\char_type.cpp
+	<iostream>
+
+1764167856 source:c:\users\gianlucasciabarrasi\desktop\udemy\cpp_code_blocks\myfirstproject\console_input.cpp
+	<iostream>
+
+1764167181 source:c:\users\gianlucasciabarrasi\desktop\udemy\cpp_code_blocks\myfirstproject\int_type.cpp
+	<iostream>
+
+1764168451 source:c:\users\gianlucasciabarrasi\desktop\udemy\cpp_code_blocks\myfirstproject\arithmetic_operators.cpp
+	<iostream>
+
