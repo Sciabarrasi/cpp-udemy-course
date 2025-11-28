@@ -35,7 +35,9 @@
 		<Unit filename="arithmetic_operators.cpp" />
 		<Unit filename="asign_variables.cpp" />
 		<Unit filename="char_type.cpp" />
+		<Unit filename="cmath.cpp" />
 		<Unit filename="console_input.cpp" />
+		<Unit filename="const.cpp" />
 		<Unit filename="int_type.cpp" />
 		<Unit filename="logic_operators.cpp" />
 		<Unit filename="main.cpp" />
